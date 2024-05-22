@@ -1,0 +1,2 @@
+redis==5.0.4
+selenium==4.21.0
